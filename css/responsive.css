@@ -1,0 +1,5 @@
+@media screen and ( min-width: 480px){
+.single-service{
+	border-right:none !important;
+}
+}
